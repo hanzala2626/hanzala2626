@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanzala2626
+- 👋 Hi, I’m @Mohd Hanzala
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on open source
